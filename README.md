@@ -11,11 +11,13 @@
 
 ### sun8i-h3-ir
 
-Activate Infrared remote receiver
+Activates Infrared remote receiver
 
 ### sun8i-h3-flash
 
 Activates MTD support for SPI NOR flash.
+
+Device: **/dev/mtd0**
 
 Compatible with: Orange PI Zero with SPI NOR
 
