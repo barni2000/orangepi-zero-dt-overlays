@@ -23,4 +23,5 @@ Compatible with: Orange PI Zero with SPI NOR
 
 * [ ] All in one overlay for NAS expansion board
 * [ ] All in one overlay for expansion board
+* [ ] Test on OrangePI Zero Plus
 
